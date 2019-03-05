@@ -18,6 +18,8 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |DrupalCon North America|Seattle, WA|Drupal|2019-04-08|Passed|[Schedule](https://events.drupal.org/seattle2019)|
 |WordCamp Atlanta|Atlanta, GA|WordPress|2019-05-03|Passed|[Apply](https://docs.google.com/forms/d/1vevDY3senj5PadZS2jqDd0M39a0o2GFVIJs2AjKYkcE/viewform?edit_requested=true)|
 |WordCamp Calgary|Calgary, Canada|WordPress|2019-05-10|Passed|[Schedule](https://2018.calgary.wordcamp.org/sessions/)|
+|Drupaldelphia|Philadelphia, PA|Drupal|2019-05-10|2019-04-15|[Apply](https://drupaldelphia.org/program/sessions/propose)|
+|Stanford DrupalCamp|Palo Alto, CA|Drupal|2019-05-17|2019-04-15|[Apply](https://drupalcamp.stanford.edu/node/add/stanford_session)|
 |Percona Live Open Source Database Conference|Austin, TX|Database|2019-05-28|Passed|[Apply](https://perconacfp.hubb.me/)|
 |Drupal Flyover Camp|Kansas City, MO|Drupal|2019-05-31|2019-04-01|[Apply](https://www.flyovercamp.org/submit-talk)|
 |DrupalCamp Chattanooga|Chattanooga, TN|Drupal|2019-06-08|2019-05-01|[Apply](https://www.drupalcampchattanooga.com/conference/submit-session)|
@@ -25,7 +27,9 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2019-06-29|2019-01-15|[Apply](https://2019.jacksonville.wordcamp.org/2018/11/09/call-for-speakers/)|
 |DrupalCamp Asheville|Asheville, NC|Drupal|2019-07-12|2019-04-22|[Apply](https://www.drupalasheville.com/submit-session)|
 |WordCamp Ann Arbor|Ann Arbor, MI|WordPress|2019-08-24|2019-04-11|[Apply](https://2019.annarbor.wordcamp.org)|
-|DrupalCamp Colorafo|Denver, CO|Drupal|2019-09-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
+|DrupalCamp Colorado|Denver, CO|Drupal|2019-09-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
 |WordCamp Sacramento|Sacramento, CA|WordPress|2019-09-21|2019-05-04|[Apply](https://2019.sacramento.wordcamp.org/)|
 |Bay Area Drupal Camp|Berkeley, CA|Drupal|2019-10-02|TBD|[Apply](https://2019.badcamp.org/)|
 |WordCamp US|St. Louis, MO|WordPress|2019-11-01|2019-04-15|[Apply](https://wordpress.org/news/2018/12/wordcamp-us-2019-dates-announced/)|
+|Florida DrupalCamp|Orlando, FL|Drupal|2020-02-21|TBD|[Apply](https://www.fldrupal.camp/submit-session)|
+|DrupalCon North America|Seattle, WA|Drupal|2020-05-18|TBD|[Apply](https://events.drupal.org/minneapolis2020)|
