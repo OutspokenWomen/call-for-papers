@@ -16,7 +16,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |WordCamp Raleigh|Raleigh, NC|WordPress|2019-04-06|TBD|[Apply](https://2019.raleigh.wordcamp.org/)|
 |WordCamp Orange County|Irvine, CA|WordPress|2019-04-27|TBD|[Apply](https://2019.oc.wordcamp.org/?subscribe=success#blog_subscription-3)|
 |DrupalCon North America|Seattle, WA|Drupal|2019-04-08|Passed|[Schedule](https://events.drupal.org/seattle2019)|
-|WordCamp Atlanta|Atlanta, GA|WordPress|2019-05-03|2019-02-15[Apply](https://docs.google.com/forms/d/1vevDY3senj5PadZS2jqDd0M39a0o2GFVIJs2AjKYkcE/viewform?edit_requested=true)|
+|WordCamp Atlanta|Atlanta, GA|WordPress|2019-05-03|2019-02-15|[Apply](https://docs.google.com/forms/d/1vevDY3senj5PadZS2jqDd0M39a0o2GFVIJs2AjKYkcE/viewform?edit_requested=true)|
 |WordCamp Calgary|Calgary, Canada|WordPress|2019-05-10|TBD|[Apply](https://2019.calgary.wordcamp.org/2018/10/24/call-for-speakers/#more-177)|
 |Percona Live Open Source Database Conference|Austin, TX|Database|2019-05-28|[Apply](https://perconacfp.hubb.me/)|
 |Drupal Flyover Camp|Kansas City, MO|Drupal|2019-05-31|TBD|[Apply](https://www.flyovercamp.org/submit-talk)|
