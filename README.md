@@ -30,6 +30,10 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |DrupalCamp Colorado|Denver, CO|Drupal|2019-09-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
 |WordCamp Sacramento|Sacramento, CA|WordPress|2019-09-21|2019-05-04|[Apply](https://2019.sacramento.wordcamp.org/)|
 |Bay Area Drupal Camp|Berkeley, CA|Drupal|2019-10-02|TBD|[Apply](https://2019.badcamp.org/)|
+|HigherEd Web|Milwaukee, WI|HigherEd|2019-10-13|Passed|[Apply](https://2019.highedweb.org/proposals/)|
+|NonProfit Storytelling Conference|San Diego, CA|Non-Profit|2019-10-28|TBD|[Apply](https://nonprofitstorytellingconference.com/speaker-call-submissions/)|
 |WordCamp US|St. Louis, MO|WordPress|2019-11-01|2019-04-15|[Apply](https://wordpress.org/news/2018/12/wordcamp-us-2019-dates-announced/)|
+|dreamforce|San Francisco, CA|Tech|2019-11-19|TBD|[Apply](https://www.salesforce.com/form/dreamforce/df19-save-the-date/)|
 |Florida DrupalCamp|Orlando, FL|Drupal|2020-02-21|TBD|[Apply](https://www.fldrupal.camp/submit-session)|
 |DrupalCon North America|Seattle, WA|Drupal|2020-05-18|TBD|[Apply](https://events.drupal.org/minneapolis2020)|
+|HigherEd Web|Southern, US|HigherEd|2019-10-17|TBC|[Apply](https://2020.highedweb.org/)|
