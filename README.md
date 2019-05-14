@@ -50,5 +50,5 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |dreamforce|San Francisco, CA|Tech|2019-11-19|TBD|[Apply](https://www.salesforce.com/form/dreamforce/df19-save-the-date/)|
 |Florida DrupalCamp|Orlando, FL|Drupal|2020-02-21|TBD|[Apply](https://www.fldrupal.camp/submit-session)|
 |DrupalCon North America|Minneapolis, WA|Drupal|2020-05-18|TBD|[Apply](https://events.drupal.org/minneapolis2020)|
-|HigherEd Web|Southern, US|HigherEd|2019-10-17|TBD|[Apply](https://2020.highedweb.org/)|
+|HigherEd Web|Southern, US|HigherEd|2020-10-17|TBD|[Apply](https://2020.highedweb.org/)|
 |Drupal Mountain Camp|Davos, Switzerland|Drupal|2021-04-11|TBD|[Apply](https://drupalmountaincamp.ch/)|
