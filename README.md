@@ -7,7 +7,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |DrupalCamp New Jersey|Princeton, NJ|Drupal|2019-02-02|Passed|[Schedule](https://www.drupalcampnj.org/program)|
 |WordCamp Phoenix|Phoenix, AZ|WordPress|2019-02-15|Passed|[Schedule](https://2019.phoenix.wordcamp.org/)|
 |Florida DrupalCamp|Orlando, FL|Drupal|2019-02-15|Passed|[Schedule](https://www.fldrupal.camp)|
-|DrupalCamp London|London|Drupal|2019-03-01|2019-01-21|[Schedule](https://drupalcamp.london/get-involved/submit-a-session)|
+|DrupalCamp London|London|Drupal|2019-03-01|Passed|[Schedule](https://drupalcamp.london/get-involved/submit-a-session)|
 |Wordcamp Dayton|Dayton, OH|Wordpress|2019-03-01|Passed|[Schedule](https://2019.dayton.wordcamp.org/)|
 |Mountain Camp|Davos, Switzerland|Drupal|2019-03-07|Passed|[Schedule](https://drupalmountaincamp.ch/)|
 |nerdsummit|Amherst, MA|Tech|2019-03-09|Passed|[Schedule](https://wiki.nerd.ngo/display/SES)|
@@ -19,12 +19,14 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |WordCamp Calgary|Calgary, Canada|WordPress|2019-05-10|Passed|[Schedule](https://2018.calgary.wordcamp.org/sessions/)|
 |Drupaldelphia|Philadelphia, PA|Drupal|2019-05-10|Passed|[Schedule](https://drupaldelphia.org)|
 |Stanford DrupalCamp|Palo Alto, CA|Drupal|2019-05-17|Passed|[Schedule](https://drupalcamp.stanford.edu)|
+|FrontEnd United|Utrecht, Netherlands|FrontEnd|2019-05-18|Passed|[Schedule](https://www.frontendunited.org/)|
 |Percona Live Open Source Database Conference|Austin, TX|Database|2019-05-28|Passed|[Schedule](https://perconacfp.hubb.me/)|
 |Drupal Flyover Camp|Kansas City, MO|Drupal|2019-05-31|2019-04-01|[Schedule](https://www.flyovercamp.org)|
 |DrupalCamp Chattanooga|Chattanooga, TN|Drupal|2019-06-08|Passed|[Schedule](https://www.drupalcampchattanooga.com)|
 |DrupalNorth|Montreal, Canada|Drupal|2019-06-12|Passed|[Schedule](http://www.drupalnorth.org/en/drupal-north-regional-summit)|
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2019-06-29|Passed|[Schedule](https://2019.jacksonville.wordcamp.org)|
 |DrupalCamp Asheville|Asheville, NC|Drupal|2019-07-12|Passed|[Schedule](https://www.drupalasheville.com)|
+|DrupalCamp Costa Rica|Costa Rica|Drupal|2019-07-12|Passed|[Schedule](https://www.drupalcamp.cr/)|
 |WordCamp Boston|Boston, MA|WordPress|2019-07-20|2019-05-15|[Apply](https://2019.boston.wordcamp.org/)|
 |WordCamp Denver|Denver, CO|WordPress|2019-07-27|Passed|[Website](https://2019.denver.wordcamp.org/)|
 |DrupalCamp Colorado|Denver, CO|Drupal|2019-08-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
@@ -37,6 +39,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |WordCamp Sacramento|Sacramento, CA|WordPress|2019-09-21|Passed|[Website](https://2019.sacramento.wordcamp.org/)|
 |WordCamp Vancouver|Vancouver, Canada|WordPress|2019-09-28|Passed|[Apply](https://2019.vancouver.wordcamp.org/about/)|
 |Bay Area Drupal Camp|Berkeley, CA|Drupal|2019-10-02|TBD|[Apply](https://2019.badcamp.org/)|
+|DrupalCamp Oslo|Oslo, Norway|Drupal|2019-10-04|TBD|[Apply](https://oslo2019.drupalcamp.no/)|
 |WordCamp Jackson|Jackson, MI|WordPress|2019-10-04|TBD|[Apply](https://2019.jackson.wordcamp.org/)|
 |HigherEd Web|Milwaukee, WI|HigherEd|2019-10-13|Passed|[Schedule](https://2019.highedweb.org)|
 |WordCamp Dallas/Ft. Worth|Dallas/Ft. Worth, TX|WordPress|2019-10-19|TBD|[Apply](https://2019.dfw.wordcamp.org/)|
@@ -48,3 +51,4 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |Florida DrupalCamp|Orlando, FL|Drupal|2020-02-21|TBD|[Apply](https://www.fldrupal.camp/submit-session)|
 |DrupalCon North America|Minneapolis, WA|Drupal|2020-05-18|TBD|[Apply](https://events.drupal.org/minneapolis2020)|
 |HigherEd Web|Southern, US|HigherEd|2019-10-17|TBD|[Apply](https://2020.highedweb.org/)|
+|Drupal Mountain Camp|Davos, Switzerland|Drupal|2021-04-11|TBD|[Apply](https://drupalmountaincamp.ch/)|
