@@ -25,7 +25,7 @@ An ongoing list of open call for papers (call for speakers) &amp; events in the 
 |DrupalNorth|Montreal, Canada|Drupal|2019-06-12|Passed|[Schedule](http://www.drupalnorth.org/en/drupal-north-regional-summit)|
 |WordCamp Jacksonville|Jacksonville, FL|WordPress|2019-06-29|Passed|[Schedule](https://2019.jacksonville.wordcamp.org)|
 |DrupalCamp Asheville|Asheville, NC|Drupal|2019-07-12|Passed|[Schedule](https://www.drupalasheville.com)|
-|WordCamp Boston|Boston, MA|WordPress|2019-07-20|2019-15|[Apply](https://2019.boston.wordcamp.org/)|
+|WordCamp Boston|Boston, MA|WordPress|2019-07-20|2019-05-15|[Apply](https://2019.boston.wordcamp.org/)|
 |WordCamp Denver|Denver, CO|WordPress|2019-07-27|Passed|[Website](https://2019.denver.wordcamp.org/)|
 |DrupalCamp Colorado|Denver, CO|Drupal|2019-08-02|TBD|[Apply](https://2019.drupalcampcolorado.org/)|
 |WordCamp Birmingham|Birmingham, AL|WordPress|2019-08-10|2019-05-15|[Apply](https://2019.birmingham.wordcamp.org/2019/04/15/call-for-speakers/)|
